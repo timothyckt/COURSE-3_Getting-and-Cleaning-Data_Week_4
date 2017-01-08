@@ -3,7 +3,6 @@ then zipped in your local drive
 
 (2) set the file path of source data in Rstudio
 
-Then following the 
 (3) Merges the training and the test sets to create one data set.
 
 (4) Extracts only the measurements on the mean and standard deviation for each measurement.
