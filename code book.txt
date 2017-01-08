@@ -1,0 +1,13 @@
+## describing the variables : 
+
+## Source file path, for example : "C:/Users/chanti/Documents/2016-09_Big Data/Coursera_Data Analysis/Data Science Specialization/COURSE 3_Getting and Cleaning Data/Week_4/UCI HAR Dataset"
+
+## test data file in "test" folder: (1) "subject_train.txt" (2)"Y_test.txt" (3) "X_test.txt"
+
+## train data file in "trait" folder: (1) "subject_train.txt" (2)"Y_test.txt" (3) "X_test.txt"
+
+## features data file : "features.txt ; with two variables : "featureNum", "featureName"
+
+## activity_labels data file : "activity_labels.txt ; with two variables : "activityNum","activityName"
+
+## Output filename, for example : "newTidyData.txt"
